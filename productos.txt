@@ -1,1 +1,2 @@
 Producto A
+Producto B
